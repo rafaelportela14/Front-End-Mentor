@@ -213,13 +213,23 @@ body{
 }
 
 
-
 .container .container-direita .btn{
     display: flex;
-    background-color: var(--neutral-medium);
-    border: solid 1px blue;
-    border-radius: 20px;
-    color: blue;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-left: 40px;
     
+}
+
+.container .container-direita .btn a{
+    display: flex;
+    align-items:center;
+    text-align: center;
+    background-color: var(--neutral-medium);
+    border-radius: 20px;
+    color: white;
+    width: 200px;
+    height: 50px;    
+    font-weight: 500;
     
 }

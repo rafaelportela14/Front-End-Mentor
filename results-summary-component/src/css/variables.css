@@ -1,0 +1,19 @@
+:root{
+    --primary-light: rgb(255, 87, 87);
+    --primary-medium: rgb(255, 176, 31);
+    --primary-dark: rgb(0, 189, 145);
+    --primary-dark2: rgb(17, 37, 212);
+
+    --gradients-light: rgb(120, 87, 255);
+    --gradients-light2: rgb(46, 43, 233);
+    --gradients-medium: rgb(78, 33, 202);
+    --gradientes-dark: rgba(36, 33, 202, 0);
+
+    --neutral-white: rgb(255, 255, 255);
+    --neutral-light: rgb(235, 241, 255);
+    --neutral-light2: rgb(200, 199, 255);
+    --neutral-medium: rgb(48, 59, 90);
+}
+
+
+

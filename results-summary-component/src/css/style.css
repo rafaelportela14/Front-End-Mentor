@@ -233,3 +233,8 @@ body{
     font-weight: 500;
     
 }
+
+.container .container-direita .btn a:hover{
+    background-color: var(--gradients-medium);
+    transition: 0.4s
+}

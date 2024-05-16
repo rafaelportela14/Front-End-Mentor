@@ -1,0 +1,119 @@
+body{
+    display: flex;
+    justify-content: center;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(1, 1, 98);
+    /* background: linear-gradient(to right,rgba(135, 207, 235, 0.907),white,rgba(223, 243, 223, 0.682)); */
+    background: linear-gradient(to right,rgba(72, 114, 238, 0.549),white,rgba(223, 243, 223, 0.682));
+    
+}
+
+
+
+.container .titulo{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 60px;
+
+}
+
+.arrais .informacao-arraias{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 60px;
+    padding-left: 10px;
+    
+}
+
+.arrais .arraia-img{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    gap: 20px;
+        
+}
+
+.arraia-img .arraia-1{
+    border: solid 5px white;
+}
+
+.arraia-img .arraia-2{
+    border: solid 5px white;
+}
+
+
+.classificacao .classificao-arraia{
+    text-align: center;
+    padding-top: 60px;
+     
+    
+}
+
+
+.arraia-medidas{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.arraia-medidas img{
+    border: solid 5px skyblue;
+}
+
+
+.ferrao .acidente-arraia{
+    display: flex;
+   justify-content: center;
+   padding-top: 30px;
+   padding-bottom: 30px;
+}
+
+.ferrao .ferrao-arraia{
+    text-align: justify;
+    padding-bottom: 30px;
+    padding-left: 10px;
+}
+
+.arraia-ferrao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    
+    
+}
+
+.arraia-ferrao img{
+    border: solid 5px white;
+}
+
+.consideracao-final .consideracao-final-h1{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+
+.consideracao-final .consideracao-final-p{
+    padding: 20px;
+    
+    
+    
+}
+
+.video-arraia{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 30px;
+    
+    
+}
+
+.video-arraia iframe{
+    border: solid 5px white;
+}

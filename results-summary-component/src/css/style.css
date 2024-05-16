@@ -218,6 +218,11 @@ body{
     justify-content: space-between;
     flex-direction: row;
     margin-left: 40px;
+   
+
+
+
+
     
 }
 
@@ -231,7 +236,11 @@ body{
     width: 200px;
     height: 50px;    
     font-weight: 500;
+
+    align-items: center;
+    justify-content: center;
     
+
 }
 
 .container .container-direita .btn a:hover{
